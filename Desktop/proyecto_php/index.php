@@ -25,15 +25,6 @@
         <option value="acompañada">acompañada</option>
         <option value="divorciada">divorciada</option>
         </select><br>
-
-        
-        <p>tipo de empleo</p>
-        <input type="radio" id="html" name="tipodeempleo"       value="permanente">
-        <label for="permanente">Permanente</label>
-        <input type="radio" id="contado" name="tipodeempleo" value="contado">
-        <label for="contado">Contado</label><br>
-
-
         
         <label for="Email">Email:</label><br>
         <input type="text" type="number" id="email" name="email"><br>

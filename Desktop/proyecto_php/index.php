@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>PROYECTO_PHP</title>
 </head>
 <body>
-    <h1>registro de clientes</h1>
+    <h1>PROYECTO_PHP</h1>
     <form method="post" action="registro.php">
         DUI: <input type="number" name="dui" required="true"> NIT: <input type="number" name="nit" required="true"> <br> <br>
         Nombre: <input type="text" name="nombre" required size="40" maxlength="35">
@@ -28,7 +28,7 @@
 
         
         <p>tipo de empleo</p>
-        <input type="radio" id="html" name="tipodeempleo" value="permanente">
+        <input type="radio" id="html" name="tipodeempleo"       value="permanente">
         <label for="permanente">Permanente</label>
         <input type="radio" id="contado" name="tipodeempleo" value="contado">
         <label for="contado">Contado</label><br>
